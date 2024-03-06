@@ -1,4 +1,6 @@
 <p align="center">
+  Neka manja promjena
+</p><p align="center">
   <img src="./.github/documentation-js-logo.png" width="650" />
 </p>
 
